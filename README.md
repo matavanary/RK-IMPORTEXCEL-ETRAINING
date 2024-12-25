@@ -4,4 +4,4 @@
 
 **SCREEN**
 
-![screen](https://github.com/ENOMBAN/RUAMKIT-IMPORTEXCEL-ETRAINING/blob/main/img/screen.png)
+![screen](https://github.com/matavanary/RUAMKIT-IMPORTEXCEL-ETRAINING/blob/main/img/screen.png)
